@@ -1,6 +1,6 @@
 # html-forms
 A clone of Intuit sign-up page.
-- [Live demo.](https://nikhilgithubofficial.github.io/html-forms/)
+- [Live demo.](https://theproficientdev.github.io/html-forms/)
 
 ## Built With
 - HTML5
